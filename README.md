@@ -72,7 +72,7 @@ Soy un desarrollador web full stack con foco en crear aplicaciones modernas, esc
 
 - Form validaciones avanzadas y dinámicas  
 - Hooks personalizados para performance  
-- Uso de Firebase y REST APIs para backend  
+- Uso de PostgresSQL y REST APIs para backend  
 - Diseño responsive y atomic design en componentes
 
 ---
