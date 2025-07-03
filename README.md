@@ -90,10 +90,7 @@ Soy un desarrollador web full stack con foco en crear aplicaciones modernas, esc
 
 ---
 
-<p align="center">
-  ⭐ ¡Gracias por visitar mi perfil! Si te gusta lo que ves, dejá una ⭐ y conectemos.
-</p>
 
----
 
-<!-- Cambiá el mail y username en los íconos antes de publicar -->
+
+
