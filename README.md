@@ -1,5 +1,6 @@
 <h1 align="center">Joaquín Martínez</h1>
-<h3 align="center">Desarrollador Full Stack apasionado por crear soluciones modernas y funcionales 🚀</h3>
+<h3 align="center">Desarrollador Full Stack con especialización en Frontend, creando experiencias modernas y funcionales 🚀</h3>
+
 
 <p align="center">
   <a href="https://giphy.com/gifs/animation-horror-illustration-26BRG5uaOpR55bjvq" target="_blank" rel="noopener noreferrer">
