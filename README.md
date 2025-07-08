@@ -77,7 +77,6 @@ Soy un desarrollador web full stack con foco en crear aplicaciones modernas, esc
 
 ---
 
----
 
 ## 📊 GitHub Stats
 
@@ -91,6 +90,12 @@ Soy un desarrollador web full stack con foco en crear aplicaciones modernas, esc
 
 ---
 
+## 📬 Contacto
+
+- 📧 Email: [joaco.martinez1480@gmail.com](mailto:joaco.martinez1480@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/joaquinmartinez-dev1480](https://www.linkedin.com/in/joaquinmartinez-dev1480/)
+
+---
 
 
 
